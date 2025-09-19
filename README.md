@@ -1,5 +1,5 @@
 # TP-KB-242-Pukas-Klim
 
-# 18/09/2025
+# 19/09/2025
 add folder topic_01
-add solution for task3 
+add solution for task1, task2, task3 
